@@ -23,4 +23,5 @@ public class IndexController {
                 "Albert Einstein"));
         return "index";
     }
+
 }
