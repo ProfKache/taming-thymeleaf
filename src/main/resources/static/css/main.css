@@ -1307,6 +1307,13 @@ select {
   }
 }
 
+@media (min-width: 768px) {
+  .md\:px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+}
+
 @media (min-width: 1024px) {
   .lg\:fixed {
     position: fixed;
