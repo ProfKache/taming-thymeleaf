@@ -35,3 +35,6 @@ build/
 .vscode/
 .DS_Store
 .env
+application.properties
+application-local.properties
+application-data-jpa-test.properties
