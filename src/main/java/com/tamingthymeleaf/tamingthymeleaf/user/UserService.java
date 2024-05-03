@@ -1,2 +1,5 @@
-package com.tamingthymeleaf.tamingthymeleaf.user;public interface UserService {
+package com.tamingthymeleaf.tamingthymeleaf.user;
+
+public interface UserService {
+    User createUser(CreateUserParameters parameters);
 }
